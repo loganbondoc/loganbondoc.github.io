@@ -1,5 +1,5 @@
 // Importing Director
-import Director from './director.min.js'
+import { Director } from './director.min.js';
 
 console.log("hello!");
 
