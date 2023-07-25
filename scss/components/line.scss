@@ -1,0 +1,22 @@
+#line-container {
+    display: flex;
+}
+
+.blue-line {
+    width: 5px;
+    height: 75vh;
+    z-index: 6;
+}
+
+#typed-text {
+    max-height: 48px;
+}
+
+#center-line-container {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 50vw;
+    top: 12.5vh;
+}
